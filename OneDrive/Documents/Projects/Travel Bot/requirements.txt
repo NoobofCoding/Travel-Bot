@@ -1,0 +1,4 @@
+﻿requests
+streamlit
+python-dotenv
+google-genai
